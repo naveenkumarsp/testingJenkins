@@ -12,3 +12,14 @@ C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
 C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\bin\Debug\HelloWorld.exe.config
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\obj\Debug\HelloWorldTests.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\obj\Debug\HelloWorldTests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\obj\Debug\HelloWorldTests.csproj.CopyComplete
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\Users\user\Desktop\Large scale application deployment\HelloWorld\testingJenkins\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
